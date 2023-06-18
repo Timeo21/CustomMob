@@ -1,0 +1,13 @@
+main\java\custommob\mobs\Turret.class
+main\java\custommob\commands\MobSpawn.class
+main\java\custommob\mobs\AlphaWolf$2.class
+main\java\custommob\mobs\Broodmother.class
+main\java\custommob\items\ItemManager.class
+main\java\custommob\mobs\AlphaWolf.class
+main\java\custommob\CustomMob.class
+main\java\custommob\events\EntityHealth.class
+main\java\custommob\commands\pigspawn.class
+main\java\custommob\mobs\AlphaWolf$1.class
+main\java\custommob\commands\GiveEgg.class
+main\java\custommob\events\UseSpawnEgg.class
+main\java\custommob\mobs\CustomPig.class

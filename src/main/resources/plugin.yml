@@ -1,0 +1,14 @@
+name: CustomMob
+version: 0.1
+main: main.java.custommob.CustomMob
+api-version: 1.19
+authors: [ Timeo ]
+commands:
+  mobspawn:
+    description: Spawn custom mobs
+    usage: /<command> <mob name>
+  giveegg:
+    description: Give spawn egg of custom mobs
+    usage: /<command> <mob name>
+  pigspawn:
+  killmob:

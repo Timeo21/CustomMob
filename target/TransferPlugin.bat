@@ -1,0 +1,1 @@
+move CustomMob-0.1.jar C:\Users\timeo\Desktop\Minecraft\Server1.19\plugins
